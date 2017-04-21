@@ -22,7 +22,7 @@ A l'issu de l'exposé, __le public pourra poser des questions__ sur l'article.
 
 ### Consignes
 
-* Durée: entre 20 à 30 minutes ( une ou deux fois par semaines ???)
+* Durée: entre 20 à 30 minutes ( une ou deux fois par semaine ???)
 * Faire un lien entre l'article et des informations communautaire ( Vie privé, développement du web, évolutions de la société,...)
 * Diapo dynamique et sans textes ( Photos, images, vidéos uniquement )
 
