@@ -26,6 +26,6 @@ A l'issu de l'exposé, __le public pourra poser des questions__ sur l'article.
 * Faire un lien entre l'article et des informations communautaire ( Vie privé, développement du web, évolutions de la société,...)
 * Diapo dynamique et sans textes ( Photos, images, vidéos uniquement )
 
-##### A mettre en place rapidement pour initier les apprénants à la recherche
+##### A mettre en place rapidement pour initier les apprenants à la recherche
 
 Eric M.- Salla
