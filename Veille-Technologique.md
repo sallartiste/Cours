@@ -16,7 +16,7 @@ Ils vont devoir __s'informer__ dans le domaine de l'informatique et plus spécia
 
 L'apprenant pourra utiliser toutes les sources d'informations de son choix (site, blog, réseaux sociaux, journaux, Flux RSS, agrégateurs,...) mais devra vérifier leur véracité. Il est indispensable de choisir une actualité intéressante, conforme à la formation et suffisamment dense.
 
-L'article ou thème choisi devra avoir moins de 3 semaines le jour de la présentation et avoir été validé par les formateurs. Il en résultera une présentation qui devra être __assistée par un diapo _( si possible??? )___
+L'article ou thème choisi devra avoir moins de 3 semaines le jour de la présentation et avoir été validé par les formateurs. Il en résultera une présentation qui devra être __assistée par un diapo _(dans la mesure du possible)___
 
 A l'issu de l'exposé, __les apprenants pourront poser des questions__ sur le sujet présenté.
 
